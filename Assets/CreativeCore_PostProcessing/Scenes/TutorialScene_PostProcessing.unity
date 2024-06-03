@@ -396,7 +396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IsGlobal: 0
   priority: 0
-  blendDistance: 0
+  blendDistance: 3
   weight: 1
   sharedProfile: {fileID: 11400000, guid: c28ba5d44ff486f46bb6496b80570cd1, type: 2}
 --- !u!4 &516179602
@@ -1018,7 +1018,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IsGlobal: 0
   priority: 0
-  blendDistance: 0
+  blendDistance: 3
   weight: 1
   sharedProfile: {fileID: 11400000, guid: bf81bae5e940eae4d829b4fd60e66ed8, type: 2}
 --- !u!4 &952337650
@@ -2171,7 +2171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_IsGlobal: 0
   priority: 0
-  blendDistance: 0
+  blendDistance: 3
   weight: 1
   sharedProfile: {fileID: 11400000, guid: f9ee53553ab93e54d9d2cf16d7848f22, type: 2}
 --- !u!4 &2111538000
