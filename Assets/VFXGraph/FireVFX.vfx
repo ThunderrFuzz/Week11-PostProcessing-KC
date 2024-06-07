@@ -3574,7 +3574,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614679}
   m_ExposedName: New Texture2D
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 0
   m_Category: 
   m_Min:
     m_Type:
@@ -3849,7 +3849,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614693}
   m_ExposedName: FlipBookSize
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
@@ -3997,7 +3997,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614700}
   m_ExposedName: FireVelocity
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -4453,7 +4453,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614713}
   m_ExposedName: turb_Intensity
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -4533,7 +4533,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614715}
   m_ExposedName: SphereRad
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -4613,7 +4613,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614717}
   m_ExposedName: LifetimeRandom
   m_Exposed: 1
-  m_Order: 6
+  m_Order: 5
   m_Category: 
   m_Min:
     m_Type:
@@ -4767,7 +4767,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614721}
   m_ExposedName: SpawnRate
   m_Exposed: 1
-  m_Order: 7
+  m_Order: 6
   m_Category: 
   m_Min:
     m_Type:
